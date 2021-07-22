@@ -1,0 +1,2 @@
+# automines
+Minesweeper reinforcement learning
